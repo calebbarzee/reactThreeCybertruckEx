@@ -9,7 +9,7 @@ I wanted to learn more about the React Three Library features. It seemed like a 
 I wrote an app demonstrating the 3D rendering of a cybertruck over a green plane. This exercise included: initializing and configuring a React Web App, using Node Package Manager to get dependencies needed for 3D rendering, exporting GLTF files from Blender, compresing GLTF files using Draco compression tooling, generating JSX given a GLTF file via GLTFJSK tooling, configuring React Three Canvas scene and components.
 
 
-[Software Demo Video](https://youtu.be/Fy0g0tZBEFo)
+[Software Demo Video](https://youtu.be/lvEbP6n_s_4)
 
 # Web Pages
 
